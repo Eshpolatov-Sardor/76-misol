@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* box-shadow: 0 0px 2px rgb(0, 0, 0); */
+}
+.header_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+}
+.header_div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50px;
+}
+a{
+    text-decoration: none;
+}
+.main_loge{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35px;
+}
+.span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.span h3{
+    margin-left: 20px;
+}
+.span img{
+    width: 20px;
+    height: 20px;
+}
+.img{
+    width: 5px;
+    height: 5px;
+}
